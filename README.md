@@ -23,3 +23,13 @@ A continuación se muestra un video demostrativo.
 ### Video 
 https://github.com/johanh-1/HotelGen1/assets/136139101/fb8de4f0-7583-4bac-b3f2-ac2b5e262da9
 
+## Manual
+Se creó un manual de usuario para que sea más fácil aprender a utilizar la herramienta y tener un punto de refencia para buscar información sobre los distintos procesos que se puede realizar.
+
+
+
+
+
+Índice             |  Lista de Figuras
+:-------------------------:|:-------------------------:
+![image](https://github.com/johanh-1/HotelGen1/assets/136139101/c19e7973-d5ff-4409-81b9-8394cef3f39b)  |  ![image](https://github.com/johanh-1/HotelGen1/assets/136139101/7e6e7b2a-10be-4252-85f9-f33be92401ab)
